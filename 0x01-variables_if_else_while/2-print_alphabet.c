@@ -15,5 +15,5 @@ char love;
 for (love = 'a'; love <= 'z'; love++)
 putchar(love);
 putchar('\n');
-return (0)
+return (0);
 }
