@@ -31,7 +31,7 @@ break;
 else
 {
 putchar(',');
-puthar(' ');
+putchar(' ');
 }
 }
 }
