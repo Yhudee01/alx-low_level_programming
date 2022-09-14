@@ -20,9 +20,10 @@ c = (j / 10) + '0';
 d = (j % 10) + '0';
 _putchar(a);
 _putchar(b);
-_putchat(':');
+_putchar(':');
 _putchar(c);
 _putchar(d);
 _putchar('\n');
+}
 }
 }
