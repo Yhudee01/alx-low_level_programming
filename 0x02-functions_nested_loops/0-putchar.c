@@ -14,6 +14,6 @@ for (count = 0; count < sz; count++)
 {
 _putchar(str[count]);
 }
-_putchar('\n')
+_putchar('\n');
 return (0);
 }
